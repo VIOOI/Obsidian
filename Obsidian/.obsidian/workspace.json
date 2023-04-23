@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abef459df06a0994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Колледж/27гд/лекции/Тестовая заметка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Колледж/36пк/DashBoard.md",
+                "file": "Колледж/27гд/лекции/Тестовая заметка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Колледж/36пк/DashBoard.md",
+                "file": "Колледж/27гд/лекции/Тестовая заметка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Колледж/36пк/DashBoard.md"
+                "file": "Колледж/27гд/лекции/Тестовая заметка.md"
               }
             }
           },
@@ -168,6 +181,8 @@
   },
   "active": "89394d25c3dffcb8",
   "lastOpenFiles": [
+    "Колледж/36пк/DashBoard.md",
+    "Колледж/27гд/лекции/Тестовая заметка.md",
     "Колледж/27гд/практика",
     "Колледж/27гд/лекции",
     "Колледж/32то/DashBoard.md",
@@ -189,9 +204,7 @@
     "Колледж/17гд/практика",
     "Колледж/17гд/лекции",
     "Колледж/17гд/DashBoard.md",
-    "Колледж/17гд",
     "Колледж/10м/DashBoard.md",
-    "Колледж/36пк/DashBoard.md",
     "Колледж/42то/DashBoard.md",
     "Колледж/41эр/DashBoard.md",
     "Колледж/11эр_8/DashBoard.md",
