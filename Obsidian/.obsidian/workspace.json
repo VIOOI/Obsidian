@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7fcda830fcba57b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Колледж/27гд/лекции/База данных отеля.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Колледж/27гд/практика/База данных отеля.md",
+                "file": "Колледж/27гд/лекции/База данных отеля.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Колледж/27гд/практика/База данных отеля.md",
+                "file": "Колледж/27гд/лекции/База данных отеля.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Колледж/27гд/практика/База данных отеля.md"
+                "file": "Колледж/27гд/лекции/База данных отеля.md"
               }
             }
           },
@@ -215,8 +227,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "95d1f5ab071afb8d",
+  "active": "7fcda830fcba57b2",
   "lastOpenFiles": [
+    "Колледж/27гд/практика/База данных отеля.md",
+    "Колледж/27гд/лекции/База данных отеля.md",
     "Колледж/27гд/практика/Работа с Excel.md",
     "Колледж/27гд/практика/Таблици в разных отрослях.md",
     "Школа/11 класс/Какие не защитывать.md",
@@ -251,8 +265,6 @@
     "Колледж/11эр_/DashBoard.md",
     "Колледж/11эр/практика/Таблици в разных отрослях.md",
     "Колледж/11эр/практика/Работа с Excel.md",
-    "Колледж/11эр/практика/База данных отеля.md",
-    "Колледж/11эр/DashBoard.md",
     "public/note-2.svg",
     "Без названия.canvas"
   ]
