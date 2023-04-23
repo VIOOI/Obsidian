@@ -3,5 +3,6 @@
   "obsidian-git",
   "table-editor-obsidian",
   "obsidian-mkdocs-publisher",
-  "obsidian-textgenerator-plugin"
+  "obsidian-textgenerator-plugin",
+  "obsidian-sample-plugin"
 ]
