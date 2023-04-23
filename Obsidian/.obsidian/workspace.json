@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Колледж/36пк/DashBoard.md",
+                "file": "Колледж/27гд/практика/Управление магазином.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abef459df06a0994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Колледж/27гд/лекции/Тестовая заметка.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66abffd8dca43059",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Колледж/27гд/практика/База данных магазина.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "322b316c5a07e02a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Колледж/27гд/практика/Отель.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50b85ef2cdb6019f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Колледж/27гд/практика/Бегалтерия ресторана.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Колледж/27гд/практика/Бегалтерия ресторана.md",
+                "file": "Колледж/27гд/практика/Управление магазином.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Колледж/27гд/практика/Бегалтерия ресторана.md",
+                "file": "Колледж/27гд/практика/Управление магазином.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Колледж/27гд/практика/Бегалтерия ресторана.md"
+                "file": "Колледж/27гд/практика/Управление магазином.md"
               }
             }
           },
@@ -215,17 +166,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "50b85ef2cdb6019f",
+  "active": "def108275d62c8db",
   "lastOpenFiles": [
+    "Колледж/27гд/DashBoard.md",
+    "Колледж/27гд/практика/Управление магазином.md",
+    "Колледж/36пк/DashBoard.md",
     "Колледж/27гд/практика/Отель.md",
-    "Колледж/27гд/практика/Бегалтерия ресторана.md",
     "Колледж/27гд/практика/База данных магазина.md",
     "Колледж/27гд/лекции/Тестовая заметка.md",
-    "Колледж/36пк/DashBoard.md",
+    "Колледж/27гд/практика/Бегалтерия ресторана.md",
     "Колледж/27гд/практика",
     "Колледж/27гд/лекции",
     "Колледж/32то/DashBoard.md",
-    "Колледж/27гд/DashBoard.md",
     "Колледж/27гд/практика/База данных отеля.md",
     "Колледж/27гд/лекции/База данных отеля.md",
     "Колледж/27гд/практика/Работа с Excel.md",
@@ -252,7 +204,6 @@
     "Колледж/11эр_5/DashBoard.md",
     "Колледж/11эр_4/DashBoard.md",
     "Колледж/11эр_3/DashBoard.md",
-    "Колледж/11эр_2/DashBoard.md",
     "public/note-2.svg",
     "Без названия.canvas"
   ]
