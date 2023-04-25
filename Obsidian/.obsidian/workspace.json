@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Колледж/27гд/практика/Управление магазином.md",
+                "file": "Колледж/27гд/DashBoard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49ac295093854b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Колледж/27гд/практика/Анализ финансовых показателей компании.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Колледж/27гд/практика/Управление магазином.md",
+                "file": "Колледж/27гд/практика/Анализ финансовых показателей компании.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Колледж/27гд/практика/Управление магазином.md",
+                "file": "Колледж/27гд/практика/Анализ финансовых показателей компании.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Колледж/27гд/практика/Управление магазином.md"
+                "file": "Колледж/27гд/практика/Анализ финансовых показателей компании.md"
               }
             }
           },
@@ -166,9 +179,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "def108275d62c8db",
+  "active": "49ac295093854b83",
   "lastOpenFiles": [
     "Колледж/27гд/DashBoard.md",
+    "Колледж/27гд/практика/Анализ финансовых показателей компании.md",
     "Колледж/27гд/практика/Управление магазином.md",
     "Колледж/36пк/DashBoard.md",
     "Колледж/27гд/практика/Отель.md",
@@ -203,7 +217,6 @@
     "Колледж/11эр_6/DashBoard.md",
     "Колледж/11эр_5/DashBoard.md",
     "Колледж/11эр_4/DashBoard.md",
-    "Колледж/11эр_3/DashBoard.md",
     "public/note-2.svg",
     "Без названия.canvas"
   ]
