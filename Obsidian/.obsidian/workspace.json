@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d957b656624b02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Колледж/27гд/практика/Базовый HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Колледж/27гд/практика/Анализ финансовых показателей компании.md",
+                "file": "Колледж/27гд/практика/Базовый HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Колледж/27гд/практика/Анализ финансовых показателей компании.md",
+                "file": "Колледж/27гд/практика/Базовый HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Колледж/27гд/практика/Анализ финансовых показателей компании.md"
+                "file": "Колледж/27гд/практика/Базовый HTML.md"
               }
             }
           },
@@ -179,10 +191,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "49ac295093854b83",
+  "active": "4d957b656624b02c",
   "lastOpenFiles": [
-    "Колледж/27гд/DashBoard.md",
     "Колледж/27гд/практика/Анализ финансовых показателей компании.md",
+    "Колледж/27гд/практика/Базовый HTML.md",
+    "Колледж/27гд/DashBoard.md",
     "Колледж/27гд/практика/Управление магазином.md",
     "Колледж/36пк/DashBoard.md",
     "Колледж/27гд/практика/Отель.md",
@@ -216,7 +229,6 @@
     "Колледж/11эр_7/DashBoard.md",
     "Колледж/11эр_6/DashBoard.md",
     "Колледж/11эр_5/DashBoard.md",
-    "Колледж/11эр_4/DashBoard.md",
     "public/note-2.svg",
     "Без названия.canvas"
   ]
